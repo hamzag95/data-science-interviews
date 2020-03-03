@@ -104,7 +104,7 @@ Answer here
 
 > How do we evaluate classification models? 👶
 
-Answer here
+There are multiple evaluation metrics we can use. Here are a few, categorical cross-entropy (lower is better), AUC (binary classification), Precision-Recall or even accuracy. 
 
 > What is accuracy? 👶
 
